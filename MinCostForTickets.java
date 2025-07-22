@@ -1,3 +1,6 @@
+// TC : O(N) -- Total number of days
+// SC : O(N) -- Total number of days
+
 class Solution {
     int []memo;
     int n;
